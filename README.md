@@ -1,6 +1,6 @@
 ## Hi! I'm Pawel! 👋 
 
-### I'm a passionate Software Developer student 💻
+### I'm a passionate Software development student 💻
 
 - 🌱 I’m currently learning about JavaScript, and Python
 - 🤔 I’m looking for a job based in Poland
