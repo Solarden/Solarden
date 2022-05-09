@@ -3,7 +3,7 @@
 ### I'm a passionate Software development student 💻
 
 - 🌱 I’m currently learning about JavaScript (React) and Python (Django)
-- 🤔 I’m currently working for <a href = 'https://www.netguru.com/'>NetGuru</a>
+- 🤔 I’m currently working for <a href = 'https://www.netguru.com/'>Netguru</a>
 - 👯 I’m looking to collaborate with other content creators
 - 💬 Ask me about anything
 - ⚡ I love to learn stuff about electronics and electricity
