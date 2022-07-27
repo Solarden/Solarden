@@ -2,7 +2,7 @@
 
 ### I'm a passionate Software development student 💻
 
-- 🌱 I’m currently learning about JavaScript (React) and Python (Django)
+- 🌱 I’m currently learning about JavaScript (React) and Python (FastAPI)
 - 🤔 I’m currently working for <a href = 'https://www.netguru.com/'>Netguru</a>
 - 👯 I’m looking to collaborate with other content creators
 - 💬 Ask me about anything
