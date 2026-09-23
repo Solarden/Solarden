@@ -1,21 +1,22 @@
-## Hi! I'm Pawel! 👋 
+### Pawel Chraczynski — backend engineering for privacy-sensitive systems
 
-### I'm a passionate Software development student 💻
+I build and review backends where a record has to be correct, attributable and still provable
+months later: health and device data, ingestion that survives being replayed, audit trails that
+answer *who changed what, and on whose authority*.
 
-### 🤝 Connect with Me
+N years of Python backend work · previously Netguru · now independent, working on regulated
+health data. Based in Poland (CET), working in English and Polish.
 
-<a href = 'https://www.linkedin.com/in/pawel-chraczynski/'> <img alt='LinkedIn' width = '26px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+**Worth a look**
 
+- [szawel.com](https://github.com/Solarden/szawel.com): a server-authoritative game as a backend
+  demo. Rules exist once, server-side; every command is signed and replay-protected; the console
+  reads as an audit trail. [Play it](https://www.szawel.com).
+- [target-analyzer](https://github.com/Solarden/target-analyzer): scoring photos of paper targets,
+  with classic CV, a VLM and a custom YOLO compared side by side on identical data.
+- [expense-analyzer](https://github.com/Solarden/expense-analyzer): self-hosted expense analysis:
+  financial data parsed and categorised on your own hardware, never a third party's.
+- [esphome-cht8305-bitbang](https://github.com/Solarden/esphome-cht8305-bitbang): an ESPHome
+  component from de-clouding Tuya BK7231N devices: vendor firmware out, authenticated local control in.
 
-### Languages and Tools:
-<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/240px-React-icon.svg.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
+[szawel.com](https://www.szawel.com) · [LinkedIn](https://www.linkedin.com/in/pawel-chraczynski/) · contact@szawel.com
