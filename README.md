@@ -4,7 +4,7 @@ I build and review backends where a record has to be correct, attributable and s
 months later: health and device data, ingestion that survives being replayed, audit trails that
 answer *who changed what, and on whose authority*.
 
-5 years of Python backend work · previously Netguru · now independent, working on regulated
+5+ years of Python backend work · previously Netguru · now independent, working on regulated
 health data. Based in Poland (CET), working in English and Polish.
 
 **Worth a look**
